@@ -1,0 +1,147 @@
+{
+    "query": {
+        "url": "https://api.twitter.com/1.1/geo/reverse_geocode.json?lat=10.0&long=10.0",
+        "type": "reverse_geocode",
+        "params": {
+            "accuracy": 0.0,
+            "coordinates": {
+                "coordinates": [
+                    10.0,
+                    10.0
+                ],
+                "type": "Point"
+            },
+            "granularity": "neighborhood"
+        }
+    },
+    "result": {
+        "places": [
+            {
+                "id": "0050229b40144026",
+                "name": "Bauchi",
+                "full_name": "Bauchi, Nigeria",
+                "country": "Nigeria",
+                "country_code": "NG",
+                "url": "https://api.twitter.com/1.1/geo/id/0050229b40144026.json",
+                "place_type": "admin",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                8.7283121,
+                                9.4556761
+                            ],
+                            [
+                                8.7283121,
+                                12.5264415
+                            ],
+                            [
+                                11.0409839,
+                                12.5264415
+                            ],
+                            [
+                                11.0409839,
+                                9.4556761
+                            ],
+                            [
+                                8.7283121,
+                                9.4556761
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    9.318905992315942,
+                    10.9908484
+                ],
+                "contained_within": [
+                    {
+                        "id": "59b27337f38d658b",
+                        "name": "Nigeria",
+                        "full_name": "Nigeria",
+                        "country": "Nigeria",
+                        "country_code": "NG",
+                        "url": "https://api.twitter.com/1.1/geo/id/59b27337f38d658b.json",
+                        "place_type": "country",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        2.6654364,
+                                        4.1974055
+                                    ],
+                                    [
+                                        2.6654364,
+                                        13.8881151
+                                    ],
+                                    [
+                                        14.6777951,
+                                        13.8881151
+                                    ],
+                                    [
+                                        14.6777951,
+                                        4.1974055
+                                    ],
+                                    [
+                                        2.6654364,
+                                        4.1974055
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            7.822704037915037,
+                            9.04266935
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "59b27337f38d658b",
+                "name": "Nigeria",
+                "full_name": "Nigeria",
+                "country": "Nigeria",
+                "country_code": "NG",
+                "url": "https://api.twitter.com/1.1/geo/id/59b27337f38d658b.json",
+                "place_type": "country",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                2.6654364,
+                                4.1974055
+                            ],
+                            [
+                                2.6654364,
+                                13.8881151
+                            ],
+                            [
+                                14.6777951,
+                                13.8881151
+                            ],
+                            [
+                                14.6777951,
+                                4.1974055
+                            ],
+                            [
+                                2.6654364,
+                                4.1974055
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    7.822704037915037,
+                    9.04266935
+                ],
+                "contained_within": []
+            }
+        ]
+    }
+}

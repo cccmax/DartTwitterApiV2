@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#MCCelebrity",
+                "url": "http://twitter.com/search?q=%23MCCelebrity",
+                "promoted_content": null,
+                "query": "%23MCCelebrity",
+                "tweet_volume": null
+            },
+            {
+                "name": "#NavidadesConGAMEyPlayStation",
+                "url": "http://twitter.com/search?q=%23NavidadesConGAMEyPlayStation",
+                "promoted_content": null,
+                "query": "%23NavidadesConGAMEyPlayStation",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Premios3DJuegosDoritos",
+                "url": "http://twitter.com/search?q=%23Premios3DJuegosDoritos",
+                "promoted_content": null,
+                "query": "%23Premios3DJuegosDoritos",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FelizMartes",
+                "url": "http://twitter.com/search?q=%23FelizMartes",
+                "promoted_content": null,
+                "query": "%23FelizMartes",
+                "tweet_volume": null
+            },
+            {
+                "name": "Canelo",
+                "url": "http://twitter.com/search?q=Canelo",
+                "promoted_content": null,
+                "query": "Canelo",
+                "tweet_volume": 779533
+            },
+            {
+                "name": "Pablo Motos",
+                "url": "http://twitter.com/search?q=%22Pablo+Motos%22",
+                "promoted_content": null,
+                "query": "%22Pablo+Motos%22",
+                "tweet_volume": 73999
+            },
+            {
+                "name": "Patricia Conde",
+                "url": "http://twitter.com/search?q=%22Patricia+Conde%22",
+                "promoted_content": null,
+                "query": "%22Patricia+Conde%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Leticia Sabater",
+                "url": "http://twitter.com/search?q=%22Leticia+Sabater%22",
+                "promoted_content": null,
+                "query": "%22Leticia+Sabater%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "halsey",
+                "url": "http://twitter.com/search?q=halsey",
+                "promoted_content": null,
+                "query": "halsey",
+                "tweet_volume": null
+            },
+            {
+                "name": "#espanaalemania",
+                "url": "http://twitter.com/search?q=%23espanaalemania",
+                "promoted_content": null,
+                "query": "%23espanaalemania",
+                "tweet_volume": null
+            },
+            {
+                "name": "Skrillex",
+                "url": "http://twitter.com/search?q=Skrillex",
+                "promoted_content": null,
+                "query": "Skrillex",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bruno Fernandes",
+                "url": "http://twitter.com/search?q=%22Bruno+Fernandes%22",
+                "promoted_content": null,
+                "query": "%22Bruno+Fernandes%22",
+                "tweet_volume": 152900
+            },
+            {
+                "name": "Uruguay",
+                "url": "http://twitter.com/search?q=Uruguay",
+                "promoted_content": null,
+                "query": "Uruguay",
+                "tweet_volume": 391238
+            },
+            {
+                "name": "Spotify",
+                "url": "http://twitter.com/search?q=Spotify",
+                "promoted_content": null,
+                "query": "Spotify",
+                "tweet_volume": 766338
+            },
+            {
+                "name": "Primavera Sound",
+                "url": "http://twitter.com/search?q=%22Primavera+Sound%22",
+                "promoted_content": null,
+                "query": "%22Primavera+Sound%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Serbia",
+                "url": "http://twitter.com/search?q=Serbia",
+                "promoted_content": null,
+                "query": "Serbia",
+                "tweet_volume": 42971
+            },
+            {
+                "name": "Tribunal Constitucional",
+                "url": "http://twitter.com/search?q=%22Tribunal+Constitucional%22",
+                "promoted_content": null,
+                "query": "%22Tribunal+Constitucional%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Juan Carlos Campo",
+                "url": "http://twitter.com/search?q=%22Juan+Carlos+Campo%22",
+                "promoted_content": null,
+                "query": "%22Juan+Carlos+Campo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Casemiro",
+                "url": "http://twitter.com/search?q=Casemiro",
+                "promoted_content": null,
+                "query": "Casemiro",
+                "tweet_volume": 448266
+            },
+            {
+                "name": "Juan del Val",
+                "url": "http://twitter.com/search?q=%22Juan+del+Val%22",
+                "promoted_content": null,
+                "query": "%22Juan+del+Val%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Kendrick",
+                "url": "http://twitter.com/search?q=Kendrick",
+                "promoted_content": null,
+                "query": "Kendrick",
+                "tweet_volume": 11277
+            },
+            {
+                "name": "Musiala",
+                "url": "http://twitter.com/search?q=Musiala",
+                "promoted_content": null,
+                "query": "Musiala",
+                "tweet_volume": 16649
+            },
+            {
+                "name": "China",
+                "url": "http://twitter.com/search?q=China",
+                "promoted_content": null,
+                "query": "China",
+                "tweet_volume": 957476
+            },
+            {
+                "name": "Metallica",
+                "url": "http://twitter.com/search?q=Metallica",
+                "promoted_content": null,
+                "query": "Metallica",
+                "tweet_volume": 76278
+            },
+            {
+                "name": "El IPC",
+                "url": "http://twitter.com/search?q=%22El+IPC%22",
+                "promoted_content": null,
+                "query": "%22El+IPC%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Apple",
+                "url": "http://twitter.com/search?q=Apple",
+                "promoted_content": null,
+                "query": "Apple",
+                "tweet_volume": 1346136
+            },
+            {
+                "name": "Koke",
+                "url": "http://twitter.com/search?q=Koke",
+                "promoted_content": null,
+                "query": "Koke",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adolfo Suárez Illana",
+                "url": "http://twitter.com/search?q=%22Adolfo+Su%C3%A1rez+Illana%22",
+                "promoted_content": null,
+                "query": "%22Adolfo+Su%C3%A1rez+Illana%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Escrivá",
+                "url": "http://twitter.com/search?q=Escriv%C3%A1",
+                "promoted_content": null,
+                "query": "Escriv%C3%A1",
+                "tweet_volume": null
+            },
+            {
+                "name": "Almudena Grandes",
+                "url": "http://twitter.com/search?q=%22Almudena+Grandes%22",
+                "promoted_content": null,
+                "query": "%22Almudena+Grandes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rodrygo",
+                "url": "http://twitter.com/search?q=Rodrygo",
+                "promoted_content": null,
+                "query": "Rodrygo",
+                "tweet_volume": 110308
+            },
+            {
+                "name": "The Weeknd",
+                "url": "http://twitter.com/search?q=%22The+Weeknd%22",
+                "promoted_content": null,
+                "query": "%22The+Weeknd%22",
+                "tweet_volume": 89080
+            },
+            {
+                "name": "Binotto",
+                "url": "http://twitter.com/search?q=Binotto",
+                "promoted_content": null,
+                "query": "Binotto",
+                "tweet_volume": 32724
+            },
+            {
+                "name": "Giménez",
+                "url": "http://twitter.com/search?q=Gim%C3%A9nez",
+                "promoted_content": null,
+                "query": "Gim%C3%A9nez",
+                "tweet_volume": 12981
+            },
+            {
+                "name": "Carmen Calvo",
+                "url": "http://twitter.com/search?q=%22Carmen+Calvo%22",
+                "promoted_content": null,
+                "query": "%22Carmen+Calvo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "San Saturnino",
+                "url": "http://twitter.com/search?q=%22San+Saturnino%22",
+                "promoted_content": null,
+                "query": "%22San+Saturnino%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Red Velvet",
+                "url": "http://twitter.com/search?q=%22Red+Velvet%22",
+                "promoted_content": null,
+                "query": "%22Red+Velvet%22",
+                "tweet_volume": 96548
+            },
+            {
+                "name": "Gales",
+                "url": "http://twitter.com/search?q=Gales",
+                "promoted_content": null,
+                "query": "Gales",
+                "tweet_volume": null
+            },
+            {
+                "name": "Corea del Sur",
+                "url": "http://twitter.com/search?q=%22Corea+del+Sur%22",
+                "promoted_content": null,
+                "query": "%22Corea+del+Sur%22",
+                "tweet_volume": 24210
+            },
+            {
+                "name": "calvin harris",
+                "url": "http://twitter.com/search?q=%22calvin+harris%22",
+                "promoted_content": null,
+                "query": "%22calvin+harris%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pueblo Palestino",
+                "url": "http://twitter.com/search?q=%22Pueblo+Palestino%22",
+                "promoted_content": null,
+                "query": "%22Pueblo+Palestino%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pasará",
+                "url": "http://twitter.com/search?q=Pasar%C3%A1",
+                "promoted_content": null,
+                "query": "Pasar%C3%A1",
+                "tweet_volume": 29021
+            },
+            {
+                "name": "Quevedo",
+                "url": "http://twitter.com/search?q=Quevedo",
+                "promoted_content": null,
+                "query": "Quevedo",
+                "tweet_volume": null
+            },
+            {
+                "name": "Carvajal",
+                "url": "http://twitter.com/search?q=Carvajal",
+                "promoted_content": null,
+                "query": "Carvajal",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ana de Armas",
+                "url": "http://twitter.com/search?q=%22Ana+de+Armas%22",
+                "promoted_content": null,
+                "query": "%22Ana+de+Armas%22",
+                "tweet_volume": 13542
+            },
+            {
+                "name": "Bentancur",
+                "url": "http://twitter.com/search?q=Bentancur",
+                "promoted_content": null,
+                "query": "Bentancur",
+                "tweet_volume": 28316
+            },
+            {
+                "name": "Campazzo",
+                "url": "http://twitter.com/search?q=Campazzo",
+                "promoted_content": null,
+                "query": "Campazzo",
+                "tweet_volume": null
+            },
+            {
+                "name": "Arganda",
+                "url": "http://twitter.com/search?q=Arganda",
+                "promoted_content": null,
+                "query": "Arganda",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bélgica",
+                "url": "http://twitter.com/search?q=B%C3%A9lgica",
+                "promoted_content": null,
+                "query": "B%C3%A9lgica",
+                "tweet_volume": 17424
+            },
+            {
+                "name": "Pet Shop Boys",
+                "url": "http://twitter.com/search?q=%22Pet+Shop+Boys%22",
+                "promoted_content": null,
+                "query": "%22Pet+Shop+Boys%22",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2022-11-29T13:20:29Z",
+        "created_at": "2022-11-26T19:28:47Z",
+        "locations": [
+            {
+                "name": "Spain",
+                "woeid": 23424950
+            }
+        ]
+    }
+]

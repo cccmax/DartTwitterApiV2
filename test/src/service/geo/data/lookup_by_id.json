@@ -1,0 +1,86 @@
+{
+    "id": "76dc82eab16e99bf",
+    "name": "Usarvan Chosala Road Area",
+    "full_name": "Usarvan Chosala Road Area, Dohad",
+    "country": "India",
+    "country_code": "IN",
+    "url": "https://api.twitter.com/1.1/geo/id/76dc82eab16e99bf.json",
+    "place_type": "neighborhood",
+    "attributes": {},
+    "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    74.23533,
+                    22.856248
+                ],
+                [
+                    74.23533,
+                    22.864833
+                ],
+                [
+                    74.247386,
+                    22.864833
+                ],
+                [
+                    74.247386,
+                    22.856248
+                ],
+                [
+                    74.23533,
+                    22.856248
+                ]
+            ]
+        ]
+    },
+    "centroid": [
+        74.24043719779907,
+        22.860496
+    ],
+    "contained_within": [
+        {
+            "id": "290f509fa5ccf445",
+            "name": "Dohad",
+            "full_name": "Dohad, India",
+            "country": "India",
+            "country_code": "IN",
+            "url": "https://api.twitter.com/1.1/geo/id/290f509fa5ccf445.json",
+            "place_type": "city",
+            "attributes": {},
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74.126749,
+                            22.634384
+                        ],
+                        [
+                            74.126749,
+                            22.962478
+                        ],
+                        [
+                            74.47663,
+                            22.962478
+                        ],
+                        [
+                            74.47663,
+                            22.634384
+                        ],
+                        [
+                            74.126749,
+                            22.634384
+                        ]
+                    ]
+                ]
+            },
+            "centroid": [
+                74.2905250983531,
+                22.798337
+            ]
+        }
+    ],
+    "polylines": [],
+    "geometry": null
+}

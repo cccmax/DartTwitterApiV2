@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "id": "1451305624956858369",
+            "name": "Test List"
+        }
+    ],
+    "meta": {
+        "result_count": 1,
+        "next_token": "NEXT_TOKEN"
+    }
+}

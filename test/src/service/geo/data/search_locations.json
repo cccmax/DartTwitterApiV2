@@ -1,0 +1,1107 @@
+{
+    "query": {
+        "params": {
+            "granularity": "neighborhood",
+            "query": "USA",
+            "trim_place": false
+        },
+        "type": "search",
+        "url": "https://api.twitter.com/1.1/geo/search.json?query=USA"
+    },
+    "result": {
+        "places": [
+            {
+                "id": "29136b3b229e89b8",
+                "name": "Uşak",
+                "full_name": "Uşak, Türkiye",
+                "country": "Turkey",
+                "country_code": "TR",
+                "url": "https://api.twitter.com/1.1/geo/id/29136b3b229e89b8.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                29.3624222,
+                                38.6330137
+                            ],
+                            [
+                                29.3624222,
+                                38.69619
+                            ],
+                            [
+                                29.446465,
+                                38.69619
+                            ],
+                            [
+                                29.446465,
+                                38.6330137
+                            ],
+                            [
+                                29.3624222,
+                                38.6330137
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    29.412860329157873,
+                    38.664769050000004
+                ],
+                "contained_within": [
+                    {
+                        "id": "15418f7d42952955",
+                        "name": "Merkez",
+                        "full_name": "Merkez, Uşak",
+                        "country": "Turkey",
+                        "country_code": "TR",
+                        "url": "https://api.twitter.com/1.1/geo/id/15418f7d42952955.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        28.7998268,
+                                        38.477429
+                                    ],
+                                    [
+                                        28.7998268,
+                                        38.849934
+                                    ],
+                                    [
+                                        29.619099,
+                                        38.849934
+                                    ],
+                                    [
+                                        29.619099,
+                                        38.477429
+                                    ],
+                                    [
+                                        28.7998268,
+                                        38.477429
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            29.22999150098848,
+                            38.6647571
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "96683cc9126741d1",
+                "name": "United States",
+                "full_name": "United States",
+                "country": "United States",
+                "country_code": "US",
+                "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json",
+                "place_type": "country",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -179.231086,
+                                13.182335
+                            ],
+                            [
+                                -179.231086,
+                                71.434357
+                            ],
+                            [
+                                179.859685,
+                                71.434357
+                            ],
+                            [
+                                179.859685,
+                                13.182335
+                            ],
+                            [
+                                -179.231086,
+                                13.182335
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    -98.99322144171052,
+                    36.8908925
+                ],
+                "contained_within": []
+            },
+            {
+                "id": "15418f7d42952955",
+                "name": "Merkez",
+                "full_name": "Merkez, Uşak",
+                "country": "Turkey",
+                "country_code": "TR",
+                "url": "https://api.twitter.com/1.1/geo/id/15418f7d42952955.json",
+                "place_type": "admin",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                28.7998268,
+                                38.477429
+                            ],
+                            [
+                                28.7998268,
+                                38.849934
+                            ],
+                            [
+                                29.619099,
+                                38.849934
+                            ],
+                            [
+                                29.619099,
+                                38.477429
+                            ],
+                            [
+                                28.7998268,
+                                38.477429
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    29.22999150098848,
+                    38.6647571
+                ],
+                "contained_within": [
+                    {
+                        "id": "0545840f2549e0e7",
+                        "name": "Usak",
+                        "full_name": "Usak, Turkey",
+                        "country": "Turkey",
+                        "country_code": "TR",
+                        "url": "https://api.twitter.com/1.1/geo/id/0545840f2549e0e7.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        28.7808633,
+                                        38.1732193
+                                    ],
+                                    [
+                                        28.7808633,
+                                        38.9494648
+                                    ],
+                                    [
+                                        30.038702,
+                                        38.9494648
+                                    ],
+                                    [
+                                        30.038702,
+                                        38.1732193
+                                    ],
+                                    [
+                                        28.7808633,
+                                        38.1732193
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            29.31067604374475,
+                            38.56050745
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "66d9e5148cb9c174",
+                "name": "Usa-shi",
+                "full_name": "Usa-shi, Oita",
+                "country": "Japan",
+                "country_code": "JP",
+                "url": "https://api.twitter.com/1.1/geo/id/66d9e5148cb9c174.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                131.21578,
+                                33.30937
+                            ],
+                            [
+                                131.21578,
+                                33.583176
+                            ],
+                            [
+                                131.448539,
+                                33.583176
+                            ],
+                            [
+                                131.448539,
+                                33.30937
+                            ],
+                            [
+                                131.21578,
+                                33.30937
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    131.33667624999998,
+                    33.4462605
+                ],
+                "contained_within": [
+                    {
+                        "id": "01cd8b8209498da4",
+                        "name": "Kyūshū",
+                        "full_name": "Kyūshū, Miyazaki",
+                        "country": "Japan",
+                        "country_code": "JP",
+                        "url": "https://api.twitter.com/1.1/geo/id/01cd8b8209498da4.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        122.933784,
+                                        24.045669
+                                    ],
+                                    [
+                                        122.933784,
+                                        34.708099
+                                    ],
+                                    [
+                                        132.085336,
+                                        34.708099
+                                    ],
+                                    [
+                                        132.085336,
+                                        24.045669
+                                    ],
+                                    [
+                                        122.933784,
+                                        24.045669
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            131.10088431734493,
+                            32.4821095
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "722d3490b5288b27",
+                "name": "Usagre",
+                "full_name": "Usagre, España",
+                "country": "Spain",
+                "country_code": "ES",
+                "url": "https://api.twitter.com/1.1/geo/id/722d3490b5288b27.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -6.3214189,
+                                38.3122708
+                            ],
+                            [
+                                -6.3214189,
+                                38.4676234
+                            ],
+                            [
+                                -6.0646988,
+                                38.4676234
+                            ],
+                            [
+                                -6.0646988,
+                                38.3122708
+                            ],
+                            [
+                                -6.3214189,
+                                38.3122708
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    -6.1975091805648574,
+                    38.38991375
+                ],
+                "contained_within": [
+                    {
+                        "id": "03a07cf11546b9df",
+                        "name": "Badajoz",
+                        "full_name": "Badajoz, Extremadura",
+                        "country": "Spain",
+                        "country_code": "ES",
+                        "url": "https://api.twitter.com/1.1/geo/id/03a07cf11546b9df.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        -7.3367352,
+                                        37.9404861
+                                    ],
+                                    [
+                                        -7.3367352,
+                                        39.4518129
+                                    ],
+                                    [
+                                        -4.6484603,
+                                        39.4518129
+                                    ],
+                                    [
+                                        -4.6484603,
+                                        37.9404861
+                                    ],
+                                    [
+                                        -7.3367352,
+                                        37.9404861
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            -6.220918806541416,
+                            38.69582245
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "0545840f2549e0e7",
+                "name": "Usak",
+                "full_name": "Usak, Turkey",
+                "country": "Turkey",
+                "country_code": "TR",
+                "url": "https://api.twitter.com/1.1/geo/id/0545840f2549e0e7.json",
+                "place_type": "admin",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                28.7808633,
+                                38.1732193
+                            ],
+                            [
+                                28.7808633,
+                                38.9494648
+                            ],
+                            [
+                                30.038702,
+                                38.9494648
+                            ],
+                            [
+                                30.038702,
+                                38.1732193
+                            ],
+                            [
+                                28.7808633,
+                                38.1732193
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    29.31067604374475,
+                    38.56050745
+                ],
+                "contained_within": [
+                    {
+                        "id": "682c5a667856ef42",
+                        "name": "Turkey",
+                        "full_name": "Turkey",
+                        "country": "Turkey",
+                        "country_code": "TR",
+                        "url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json",
+                        "place_type": "country",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        25.668509,
+                                        35.8084193
+                                    ],
+                                    [
+                                        25.668509,
+                                        42.1047857
+                                    ],
+                                    [
+                                        44.817931,
+                                        42.1047857
+                                    ],
+                                    [
+                                        44.817931,
+                                        35.8084193
+                                    ],
+                                    [
+                                        25.668509,
+                                        35.8084193
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            35.58228718983823,
+                            38.95337175
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "45f625c6ad99a5d0",
+                "name": "Saint-Usage",
+                "full_name": "Saint-Usage, France",
+                "country": "France",
+                "country_code": "FR",
+                "url": "https://api.twitter.com/1.1/geo/id/45f625c6ad99a5d0.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                5.228255,
+                                47.0818226
+                            ],
+                            [
+                                5.228255,
+                                47.1354094
+                            ],
+                            [
+                                5.2808459,
+                                47.1354094
+                            ],
+                            [
+                                5.2808459,
+                                47.0818226
+                            ],
+                            [
+                                5.228255,
+                                47.0818226
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    5.2500618743329,
+                    47.1086746
+                ],
+                "contained_within": [
+                    {
+                        "id": "291e7a6ade006c22",
+                        "name": "Beaune",
+                        "full_name": "Beaune",
+                        "country": "France",
+                        "country_code": "FR",
+                        "url": "https://api.twitter.com/1.1/geo/id/291e7a6ade006c22.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        4.10723783713287,
+                                        46.8998039726595
+                                    ],
+                                    [
+                                        4.10723783713287,
+                                        47.3222919582835
+                                    ],
+                                    [
+                                        5.40089315602205,
+                                        47.3222919582835
+                                    ],
+                                    [
+                                        5.40089315602205,
+                                        46.8998039726595
+                                    ],
+                                    [
+                                        4.10723783713287,
+                                        46.8998039726595
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            4.805999232114619,
+                            47.1110140359916
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "7081e219192588d0",
+                "name": "Usawan",
+                "full_name": "Usawan, India",
+                "country": "India",
+                "country_code": "IN",
+                "url": "https://api.twitter.com/1.1/geo/id/7081e219192588d0.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                79.34302,
+                                27.808102
+                            ],
+                            [
+                                79.34302,
+                                27.819372
+                            ],
+                            [
+                                79.352343,
+                                27.819372
+                            ],
+                            [
+                                79.352343,
+                                27.808102
+                            ],
+                            [
+                                79.34302,
+                                27.808102
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    79.34734717660984,
+                    27.8138845
+                ],
+                "contained_within": [
+                    {
+                        "id": "133eafffa4b1ca86",
+                        "name": "Uttar Pradesh",
+                        "full_name": "Uttar Pradesh, India",
+                        "country": "India",
+                        "country_code": "IN",
+                        "url": "https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        77.096236,
+                                        23.871941
+                                    ],
+                                    [
+                                        77.096236,
+                                        30.407576
+                                    ],
+                                    [
+                                        84.638873,
+                                        30.407576
+                                    ],
+                                    [
+                                        84.638873,
+                                        23.871941
+                                    ],
+                                    [
+                                        77.096236,
+                                        23.871941
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            80.78221874299761,
+                            27.1404195
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "6c22f82cdfb9a34f",
+                "name": "Saint-Usage",
+                "full_name": "Saint-Usage, France",
+                "country": "France",
+                "country_code": "FR",
+                "url": "https://api.twitter.com/1.1/geo/id/6c22f82cdfb9a34f.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                4.5820113,
+                                48.0791187
+                            ],
+                            [
+                                4.5820113,
+                                48.1193987
+                            ],
+                            [
+                                4.6903415,
+                                48.1193987
+                            ],
+                            [
+                                4.6903415,
+                                48.0791187
+                            ],
+                            [
+                                4.5820113,
+                                48.0791187
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    4.620762208760449,
+                    48.0992652
+                ],
+                "contained_within": [
+                    {
+                        "id": "31d37be38eacbcfa",
+                        "name": "Troyes",
+                        "full_name": "Troyes",
+                        "country": "France",
+                        "country_code": "FR",
+                        "url": "https://api.twitter.com/1.1/geo/id/31d37be38eacbcfa.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        3.57517403944733,
+                                        47.9236149911231
+                                    ],
+                                    [
+                                        3.57517403944733,
+                                        48.7166550314751
+                                    ],
+                                    [
+                                        4.72321295987847,
+                                        48.7166550314751
+                                    ],
+                                    [
+                                        4.72321295987847,
+                                        47.9236149911231
+                                    ],
+                                    [
+                                        3.57517403944733,
+                                        47.9236149911231
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            4.160291534031334,
+                            48.3201755111394
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "623cf42ebdf01c38",
+                "name": "Marigny-les-Usages",
+                "full_name": "Marigny-les-Usages, France",
+                "country": "France",
+                "country_code": "FR",
+                "url": "https://api.twitter.com/1.1/geo/id/623cf42ebdf01c38.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                1.9853618,
+                                47.9410799
+                            ],
+                            [
+                                1.9853618,
+                                47.9756337
+                            ],
+                            [
+                                2.0445357,
+                                47.9756337
+                            ],
+                            [
+                                2.0445357,
+                                47.9410799
+                            ],
+                            [
+                                1.9853618,
+                                47.9410799
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    2.012012272108601,
+                    47.9583935
+                ],
+                "contained_within": [
+                    {
+                        "id": "1d46a1a448463ed6",
+                        "name": "Orléans",
+                        "full_name": "Orléans",
+                        "country": "France",
+                        "country_code": "FR",
+                        "url": "https://api.twitter.com/1.1/geo/id/1d46a1a448463ed6.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        1.5114049219229,
+                                        47.5855020008227
+                                    ],
+                                    [
+                                        1.5114049219229,
+                                        48.1466879991928
+                                    ],
+                                    [
+                                        2.60144208165704,
+                                        48.1466879991928
+                                    ],
+                                    [
+                                        2.60144208165704,
+                                        47.5855020008227
+                                    ],
+                                    [
+                                        1.5114049219229,
+                                        47.5855020008227
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            1.997978322972438,
+                            47.8672079848234
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "768d032e28fca003",
+                "name": "Usan",
+                "full_name": "Usan, Scotland",
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "url": "https://api.twitter.com/1.1/geo/id/768d032e28fca003.json",
+                "place_type": "city",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -2.457011,
+                                56.681053
+                            ],
+                            [
+                                -2.457011,
+                                56.684902
+                            ],
+                            [
+                                -2.449078,
+                                56.684902
+                            ],
+                            [
+                                -2.449078,
+                                56.681053
+                            ],
+                            [
+                                -2.457011,
+                                56.681053
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    -2.45337330494708,
+                    56.6829475
+                ],
+                "contained_within": [
+                    {
+                        "id": "0af014accd6f6e99",
+                        "name": "Scotland",
+                        "full_name": "Scotland, United Kingdom",
+                        "country": "United Kingdom",
+                        "country_code": "GB",
+                        "url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+                        "place_type": "admin",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        -7.66085699743185,
+                                        54.6336309570711
+                                    ],
+                                    [
+                                        -7.66085699743185,
+                                        60.8452769694519
+                                    ],
+                                    [
+                                        -0.740025000483186,
+                                        60.8452769694519
+                                    ],
+                                    [
+                                        -0.740025000483186,
+                                        54.6336309570711
+                                    ],
+                                    [
+                                        -7.66085699743185,
+                                        54.6336309570711
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            -3.9115577506867383,
+                            56.6529605254723
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "76dc82eab16e99bf",
+                "name": "Usarvan Chosala Road Area",
+                "full_name": "Usarvan Chosala Road Area, Dohad",
+                "country": "India",
+                "country_code": "IN",
+                "url": "https://api.twitter.com/1.1/geo/id/76dc82eab16e99bf.json",
+                "place_type": "neighborhood",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                74.23533,
+                                22.856248
+                            ],
+                            [
+                                74.23533,
+                                22.864833
+                            ],
+                            [
+                                74.247386,
+                                22.864833
+                            ],
+                            [
+                                74.247386,
+                                22.856248
+                            ],
+                            [
+                                74.23533,
+                                22.856248
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    74.24043719779907,
+                    22.860496
+                ],
+                "contained_within": [
+                    {
+                        "id": "290f509fa5ccf445",
+                        "name": "Dohad",
+                        "full_name": "Dohad, India",
+                        "country": "India",
+                        "country_code": "IN",
+                        "url": "https://api.twitter.com/1.1/geo/id/290f509fa5ccf445.json",
+                        "place_type": "city",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        74.126749,
+                                        22.634384
+                                    ],
+                                    [
+                                        74.126749,
+                                        22.962478
+                                    ],
+                                    [
+                                        74.47663,
+                                        22.962478
+                                    ],
+                                    [
+                                        74.47663,
+                                        22.634384
+                                    ],
+                                    [
+                                        74.126749,
+                                        22.634384
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            74.2905250983531,
+                            22.798337
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "08fbcf4cbc4bc5b9",
+                "name": "United States Minor Outlying Islands",
+                "full_name": "United States Minor Outlying Islands",
+                "country": "United States Minor Outlying Islands",
+                "country_code": "UM",
+                "url": "https://api.twitter.com/1.1/geo/id/08fbcf4cbc4bc5b9.json",
+                "place_type": "country",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -177.3967777,
+                                -0.3807833
+                            ],
+                            [
+                                -177.3967777,
+                                28.2196605
+                            ],
+                            [
+                                166.657445,
+                                28.2196605
+                            ],
+                            [
+                                166.657445,
+                                -0.3807833
+                            ],
+                            [
+                                -177.3967777,
+                                -0.3807833
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    -162.77124016680636,
+                    6.216361
+                ],
+                "contained_within": []
+            },
+            {
+                "id": "7d6c7ad550fdb623",
+                "name": "Hacı Uşağı",
+                "full_name": "Hacı Uşağı, Kozan",
+                "country": "Turkey",
+                "country_code": "TR",
+                "url": "https://api.twitter.com/1.1/geo/id/7d6c7ad550fdb623.json",
+                "place_type": "neighborhood",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                35.813245,
+                                37.443497
+                            ],
+                            [
+                                35.813245,
+                                37.4498577
+                            ],
+                            [
+                                35.8177603,
+                                37.4498577
+                            ],
+                            [
+                                35.8177603,
+                                37.443497
+                            ],
+                            [
+                                35.813245,
+                                37.443497
+                            ]
+                        ]
+                    ]
+                },
+                "centroid": [
+                    35.81616417786664,
+                    37.4463947
+                ],
+                "contained_within": [
+                    {
+                        "id": "01d4fef33d1f6ecd",
+                        "name": "Kozan",
+                        "full_name": "Kozan, Türkiye",
+                        "country": "Turkey",
+                        "country_code": "TR",
+                        "url": "https://api.twitter.com/1.1/geo/id/01d4fef33d1f6ecd.json",
+                        "place_type": "city",
+                        "attributes": {},
+                        "bounding_box": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        35.770479,
+                                        37.4282095
+                                    ],
+                                    [
+                                        35.770479,
+                                        37.4820724
+                                    ],
+                                    [
+                                        35.844329,
+                                        37.4820724
+                                    ],
+                                    [
+                                        35.844329,
+                                        37.4282095
+                                    ],
+                                    [
+                                        35.770479,
+                                        37.4282095
+                                    ]
+                                ]
+                            ]
+                        },
+                        "centroid": [
+                            35.80712911947492,
+                            37.4551625
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

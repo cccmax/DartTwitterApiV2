@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Nigeria",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424908",
+        "parentid": 1,
+        "country": "Nigeria",
+        "woeid": 23424908,
+        "countryCode": "NG"
+    }
+]
